@@ -1,5 +1,8 @@
 # Java-Microservices-with-Spring-Cloud-Coordinating-Services
 
+# Eureka URL
+
+`http://localhost:8761/`
 
 <img width="1490" alt="Screenshot 2022-06-06 at 11 12 06 PM" src="https://user-images.githubusercontent.com/54174687/172217669-3d53bf60-345c-4831-ad7b-3ae54baed069.png">
 
