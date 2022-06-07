@@ -1,5 +1,8 @@
 # Using Processors And Conditional Subscribers
 
+`docker run -d --hostname local-rabbit --name pluralsight-rmq -p 15672:15672 -p 5672:5672 rabbitmq:3.9.9-management`
+
+
 - Add new exchange as "fastpassprocessor" and queue as "statusqueue" and bind exchange with the queue as shown below
 
 - Sequences to start the services
