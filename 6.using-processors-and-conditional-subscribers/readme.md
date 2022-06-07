@@ -176,3 +176,5 @@ public class TollIntakeApplication implements CommandLineRunner {
 }
 
 ```
+
+<img width="703" alt="Screenshot 2022-06-07 at 11 55 24 PM" src="https://user-images.githubusercontent.com/54174687/172455607-2a3817a7-362e-4912-87d6-f986d5165882.png">
