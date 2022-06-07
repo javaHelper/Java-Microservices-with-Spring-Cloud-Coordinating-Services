@@ -12,7 +12,7 @@ Start the toll-intake
 
 fastpass-ui application.properties
 
-```sh
+```properties
 server.port=8080
 spring.application.name=fastpass-ui
 #eureka.client.serviceUrl.defaultZone=http://localhost:8761/eureka/
