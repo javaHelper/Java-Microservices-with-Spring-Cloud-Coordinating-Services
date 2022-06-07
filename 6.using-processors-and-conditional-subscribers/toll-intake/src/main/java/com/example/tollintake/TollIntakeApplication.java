@@ -31,7 +31,7 @@ public class TollIntakeApplication implements CommandLineRunner {
 		};
 	}
 	
-	@Bean
+	//@Bean
 	public Function<FastPassToll, FastPassToll> processTollCharge() {
 		return value -> { 
 			System.out.println("Processing message");
